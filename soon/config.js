@@ -65,17 +65,17 @@ var counter = {
 
           // OPTIONS:"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
           
-          Month: 'January',
+          Month: 'July',
 
 
           //  DAY : INTEGER[ 1 - 31 ]
 
-          Day: 17,
+          Day: 20,
 
 
            // YEAR : INTEGER
 
-          Year: 2020
+          Year: 2018
     }
 		
 	};
